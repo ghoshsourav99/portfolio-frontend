@@ -23,7 +23,7 @@ const Experience = () => {
 
   const experiences = [
     {
-      role: "Frontend Intern",
+      role: "Frontend Developer Intern",
       company: "99 ideas Saas India Pvt Ltd",
       duration: "Dec 2024 - Present",
       responsibilities: [
