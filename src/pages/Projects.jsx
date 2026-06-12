@@ -14,6 +14,32 @@ import { motion } from "framer-motion";
 
 const projects = [
   {
+    title: "Job Tracking Application",
+    description:
+      "A web application designed to help users manage and track their job applications efficiently. Features include application status tracking, job management, search and filtering, and a responsive user interface for an organized job search experience.",
+    tech: [
+      "React.js",
+      "Material UI",
+      "REST API",
+      "Node.js",
+      "Express.js",
+      "MySQL",
+      "GitHub",
+      "Vite",
+    ],
+    github: "https://github.com/ghoshsourav99/job-tracker-application",
+    demo: "",
+  },
+  {
+    title: "Inventory Management System",
+    description:
+      "A full-stack inventory management platform that helps businesses manage products, monitor stock levels, and track inventory operations. Includes CRUD functionality, real-time inventory updates, dashboard analytics, and secure data management.",
+    tech: ["React.js", "Node.js", "Express.js", "MySQL", "Material UI"],
+    github: "https://github.com/ghoshsourav99/Inventory_Management_System",
+    demo: "",
+  },
+
+  {
     title: "Portfolio Website",
     description:
       "A personal portfolio website to showcase my skills, built with React, Vite and Material UI. Fully responsive and minimal.",

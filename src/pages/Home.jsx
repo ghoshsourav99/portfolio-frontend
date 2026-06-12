@@ -39,12 +39,12 @@ const Home = () => {
               Hey, I'm Sourav 👋
             </Typography>
             <Typography variant="h5" color="text.secondary" gutterBottom>
-              Frontend Developer | UI/UX Focused | React Specialist
+              Frontend Developer | React.js • Next.js • JavaScript
             </Typography>
             <Typography variant="body1" sx={{ mb: 4, maxWidth: "600px" }}>
-              I build smooth, responsive, and accessible web interfaces using
-              modern frontend stacks. Passionate about solving real-world
-              problems through intuitive UI and clean code.
+              I build responsive, scalable, and performance-driven web
+              applications with a focus on clean code, seamless user
+              experiences, and modern frontend technologies.
             </Typography>
 
             <Stack direction="row" spacing={2}>

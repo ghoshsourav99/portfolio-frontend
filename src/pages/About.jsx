@@ -3,14 +3,23 @@ import { Box, Typography, Chip, Stack, Paper } from "@mui/material";
 import { motion } from "framer-motion";
 
 const techStack = [
-  "React",
+  "React.js",
+  "Next.js",
   "JavaScript",
-  "HTML",
-  "CSS",
+  "HTML5",
+  "CSS3",
   "Material UI",
+  "Responsive Design",
+  "Restful APIs",
   "Git",
+  "GitHub",
   "Vite",
-  "Firebase",
+  "Webpack",
+  "Node.js",
+  "Express.js",
+  "MongoDB",
+  "MySQL",
+  "SSR & SSG",
 ];
 
 const About = () => {
@@ -47,9 +56,10 @@ const About = () => {
             color="text.secondary"
             sx={{ maxWidth: "800px", mb: 2 }}
           >
-            I'm a frontend developer with a passion for building clean,
-            user-centric websites and web apps. I focus on crafting interactive
-            and accessible UI using modern tools like React and Material UI.
+            I'm a Frontend Developer passionate about building modern,
+            responsive, and user-friendly web applications. I specialize in
+            creating clean interfaces and seamless user experiences using
+            React.js, Next.js, JavaScript, and Material UI.
           </Typography>
 
           <Typography
@@ -57,9 +67,12 @@ const About = () => {
             color="text.secondary"
             sx={{ maxWidth: "800px", mb: 2 }}
           >
-            I’m currently interning at a startup where I’ve worked on real-world
-            projects, collaborated with agile teams, and sharpened my skills in
-            component-based architecture, animations, and responsive design.
+            Recently, I completed my MERN Stack Developer Internship at 99 Ideas
+            SaaS India Pvt. Ltd., where I worked primarily on frontend
+            development for real-world projects. My experience includes
+            developing admin dashboards, company websites, API integrations,
+            AI-powered chatbot features, and migrating React applications to
+            Next.js using SSR and SSG.
           </Typography>
 
           <Typography
@@ -67,10 +80,11 @@ const About = () => {
             color="text.secondary"
             sx={{ maxWidth: "800px" }}
           >
-            I enjoy learning new technologies and continuously improving my
-            work. Whether it’s creating smooth UI interactions, writing clean
-            code, or experimenting with animations — I aim to deliver
-            experiences that people love to use.
+            I enjoy turning complex requirements into intuitive digital
+            experiences while focusing on performance, scalability, and
+            maintainable code. I'm constantly exploring new technologies and
+            improving my development skills to build better products and solve
+            real-world problems.
           </Typography>
         </Paper>
 
